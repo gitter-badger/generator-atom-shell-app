@@ -1,4 +1,5 @@
 # generator-atom-shell-app [![Build Status](https://secure.travis-ci.org/jacoblwe20/generator-atom-shell-app.png?branch=master)](https://travis-ci.org/jacoblwe20/generator-atom-shell-app)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ChrisMcKenzie/generator-atom-shell-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is a baseline app for [atom-shell](https://github.com/atom/atom-shell) that pretty much is the instructions that are given on in [Atom-Shell's Getting Started](https://github.com/atom/atom-shell/blob/master/docs/tutorial/quick-start.md)
 
